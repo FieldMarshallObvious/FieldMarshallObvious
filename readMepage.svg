@@ -4,7 +4,7 @@
 		<style>
 			.basicBlock
 			{
-				border-color:#000000;
+				border-color:#514e4e;
 				border-width:1px;
 				border-style:solid;
 				background-color: #514e4e;
@@ -13,6 +13,8 @@
 			{
 				padding-left: 24px;
 				padding-right: 24px;
+				color: #ffffff;
+
 			}
 			.topLeftBlock
 			{
@@ -20,10 +22,16 @@
 				width: 724.8px;
 				height: 318.432px;
 			}
+			.topRightBlock
+			{
+				border-top-right-radius: 24px;
+				width: 338px;
+				height: 556.014px;
+				left: -736.8px;
+			}
 			.IntroText
 			{
-				color:#ffffff;
-				font-family:"Avenir LT Pro 55 Roman", sans-serif;
+				font-family:"Avenir LT Pro 85 Heavy", sans-serif;
 				font-size: 36px;
 				font-style:normal;
 				font-weight:bold;
@@ -31,20 +39,49 @@
 				page-break-before: auto;
 				line-height: 43.2px;
 			}
+			.ProficientText
+			{
+				font-size: 30px;
+				margin-top: 59px;
+				font-weight: lighter;
+				margin-left: 57px;
+				line-height: 0px;
+			}
 			h1
 			{
-				color: #ffffff;
-				font-family:"Avenir LT Pro 65 Medium", sans-serif;
+				font-family:"Avenir LT Pro 95 Black", sans-serif;
 				font-size: 72px;
 				font-style:normal;
 				font-weight:bold;
 				margin-bottom: -3.5px;
+			}
+			h2
+			{
+				font-family: "Avenir LT Pro 85 Heavy", sans-serif;
+				font-size: 36px;
+				padding-top: 12px;
+			}
+			br
+			{
+				margin-top: 12px;
+				margin-bottom: 59px;
 			}
 		</style>
 	</div>
 	<div class = "basicBlock topLeftBlock">
 			<h1 class = "basicText">Hi There!</h1>
 			<p class = "basicText IntroText">I'm Noah del Angel, a dedicated CS student at Texas State University. My fascination with computer science lies in the solving of complex solutions with elegant, simple solutions.</p>
+	</div>
+	<div class = "basicBlock topRightBlock">
+		<h2 class = "basicText">I am proficient in</h2>
+		<br>
+		<p class = "basicText IntroText ProficientText">C++</p>
+		<p class = "basicText IntroText ProficientText">Java</p>
+		<p class = "basicText IntroText ProficientText">Javascript</p>
+		<p class = "basicText IntroText ProficientText">HTML</p>
+		<p class = "basicText IntroText ProficientText">CSS</p>
+		<p class = "basicText IntroText ProficientText">C#</p>
+		<p class = "basicText IntroText ProficientText">Python</p>
 	</div>
 </foreignObject>
 </svg>
