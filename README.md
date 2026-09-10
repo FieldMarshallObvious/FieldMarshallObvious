@@ -1,7 +1,7 @@
 <h1 align="center">Noah del Angel</h1>
 
 <p align="center">
-  <b>Machine Learning Engineer II @ Mozilla — AI Platform</b><br/>
+  <b>Machine Learning Engineer II @ Mozilla</b><br/>
   Building the backend infrastructure that powers AI capabilities across Firefox.
 </p>
 
