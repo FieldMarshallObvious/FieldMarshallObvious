@@ -28,8 +28,7 @@ backend tooling, and the frontends on top of them. I like hard problems with sim
 hosting/serving infrastructure that powers Firefox's AI features.
 
 **Before that** I built enterprise agentic and RAG systems at HGS Digital — including a
-back-office automation platform serving 1,000+ concurrent users that cut case-worker analysis
-from 4 hours to 1. I also led pre-sales teams building LangGraph agentic demos, modernized a
+back-office automation platform that cut case-worker analysis from 4 hours to 1. I also led pre-sales teams building LangGraph agentic demos, modernized a
 monolith into a React/Node.js architecture at Equity Sales Finance with zero downtime, and
 shipped TensorFlow Lite models to edge devices at Austin GIS at 80% inference accuracy.
 
