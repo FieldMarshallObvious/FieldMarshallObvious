@@ -27,9 +27,11 @@ backend tooling, and the frontends on top of them. I like hard problems with sim
 **Right now** I'm on Mozilla's **AI Platform** team, developing backend tooling and model
 hosting/serving infrastructure that powers Firefox's AI features.
 
-**Before that** I built enterprise agentic and RAG systems at HGS Digital, modernized a
-monolith into a React/Node.js architecture at Equity Sales Finance, and shipped TensorFlow
-Lite models to edge devices at Austin GIS.
+**Before that** I built enterprise agentic and RAG systems at HGS Digital — including a
+back-office automation platform serving 1,000+ concurrent users that cut case-worker analysis
+from 4 hours to 1. I also led pre-sales teams building LangGraph agentic demos, modernized a
+monolith into a React/Node.js architecture at Equity Sales Finance with zero downtime, and
+shipped TensorFlow Lite models to edge devices at Austin GIS at 80% inference accuracy.
 
 - 🔭 Working on model serving infrastructure and developer tooling for AI teams
 - 🌱 Going deeper on distributed systems and inference optimization
@@ -70,6 +72,7 @@ Lite models to edge devices at Austin GIS.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**CHC+ Innovations™**](https://chc.plus/) | AI-drafted Continuing Healthcare checklists for UK councils | Python · React · AWS |
 | [**Automated Prospecting with LLMs**](https://www.noahdelangel.dev/projects/showcase/llmScraper) | Prospecting pipeline that scrapes and qualifies client profiles with LLM-driven scoring | Python · Selenium · AWS · MySQL |
 | [**Computer Vision Digital Signage**](https://www.noahdelangel.dev/projects/showcase/computer_vision_digital_signage) | TFLite models embedded in an Android app for ad preemption and programmatic advertising | Kotlin · TensorFlow Lite · AWS |
 | [**Internet Plagiarism Checker**](https://github.com/FieldMarshallObvious/PlagiarismChecker) | NLP-based plagiarism detection over live web results | Python · NLP · React |
@@ -85,7 +88,3 @@ More write-ups, architecture diagrams, and case studies live at **[noahdelangel.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FieldMarshallObvious&theme=default" alt="Profile summary" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=FieldMarshallObvious&hide_border=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FieldMarshallObvious&hide_border=true&theme=default" alt="Contribution streak" />
-</picture>
